@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	codanics_1	/home/codanics/03_wgs_assembly/short_reads_only_assembly/01_qc_before_processing/reports/codanics_1_fastqc/fastqc_data.txt
+FastQC	all_sections	codanics_2	/home/codanics/03_wgs_assembly/short_reads_only_assembly/01_qc_before_processing/reports/codanics_2_fastqc/fastqc_data.txt
